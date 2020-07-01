@@ -1,0 +1,11 @@
+accounts.log
+venv/
+__pycache__/
+.vscode/
+static/
+static_cdn/
+media_cdn/
+media/
+svenv/
+
+#dockerfile
